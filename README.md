@@ -8,4 +8,6 @@ Prerequisites:
 
 -----------------------------------------  
 
-To learn more about The Assembly’s workshops, visit our website, social media or email us at workshops@theassembly.ae  Our website: http://theassembly.ae Instagram: http://instagram.com/makesmartthings Facebook: http://fb.com/makesmartthings Twitter: http://twitter.com/makesmartthings  #Django #PayPal #Python
+
+![Screenshot (1111)](https://user-images.githubusercontent.com/62319333/205436177-43a1eb82-5198-459d-8b99-cc3fe0676f37.png)
+![Screenshot (1110)](https://user-images.githubusercontent.com/62319333/205436180-38b5a2a5-7874-48f1-a3ef-6f5f5fa74a49.png)
